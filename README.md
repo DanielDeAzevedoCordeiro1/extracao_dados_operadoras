@@ -216,7 +216,7 @@ git clone https://github.com/DanielDeAzevedoCordeiro1/extracao_dados_operadoras.
 cd task3
 ```
 
-### 2. Crie e ative um ambiente virtual Python ((venv)[https://docs.python.org/pt-br/3/library/venv.html]))
+### 2. Crie e ative um ambiente virtual Python
 ```bash
 # No Windows
 python -m venv venv
